@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **kunalp78/kunalp78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,6 +8,7 @@ Here are some ideas to get you started:-->
 ## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 ## Profile Views ![counter](https://en7icuipp4dsw8c.m.pipedream.net)
 
+### Hi there 👋
 - 🔭 I’m currently working on The Blog App (Full-Stack).
 - 🌱 I’m currently learning Frontend Development
 - 👯 I’m looking to collaborate with other content creators
