@@ -8,13 +8,13 @@ Here are some ideas to get you started:-->
 ## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 ## Profile Views ![counter](https://en7icuipp4dsw8c.m.pipedream.net)
 
-### Hi there 👋
+### Hi I am Kunal 👋
 - 🔭 I’m currently working on The Blog App (Full-Stack).
 - 🌱 I’m currently learning Frontend Development
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read Novels and solve Rubik's Cube
-- 📫 How to reach me: kunalp78@gmail.com
+- 📫 You can ask me anything [here](https://github.com/kunalp78/kunalp78/issues)
 ## Recent Ongoing Projects
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kunalp78&repo=blogapp)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kunalp78&repo=chat-app)
