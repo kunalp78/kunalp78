@@ -9,7 +9,7 @@ Here are some ideas to get you started:-->
 ## Profile Views ![counter](https://en7icuipp4dsw8c.m.pipedream.net)
 
 ### Hi I am Kunal 👋
-- 🔭 I’m currently working on The Blog App (Full-Stack).
+- 🔭 I’m currently working on Building Blockchain technology (Full-Stack).
 - 🧰 I'm a Backend Developer
 - 🌱 I’m currently learning Frontend Development
 - 👯 I’m looking to collaborate with other content creators
