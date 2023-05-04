@@ -9,11 +9,11 @@ Here are some ideas to get you started:-->
 ## Profile Views ![counter](https://en7icuipp4dsw8c.m.pipedream.net)
 
 ### Hi I am Kunal 👋
-- 🔭 I’m currently working on Building Blockchain technology (Full-Stack).
-- 🧰 I'm a Backend Developer
+- 🔭 I’m currently working on Machine Learnig and Building Blockchain technology (Full-Stack).
+- 🧰 I'm a Python Developer
 - 🌱 I’m currently learning Frontend Development
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read Novels and solve Rubik's Cube
 - 📫 You can ask me anything [here](https://github.com/kunalp78/kunalp78/issues)
 <!--- 🌐 [My Profile](https://kunalp78.github.io/profile/) -->
