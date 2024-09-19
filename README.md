@@ -13,7 +13,7 @@ Here are some ideas to get you started:-->
 - 🧰 I'm a Python Developer
 - 🌱 I’m currently learning Frontend Development
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read Novels and solve Rubik's Cube
 - 📫 You can ask me anything [here](https://github.com/kunalp78/kunalp78/issues)
 <!--- 🌐 [My Profile](https://kunalp78.github.io/profile/) -->
